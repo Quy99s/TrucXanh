@@ -1,0 +1,104 @@
+{
+  "version": "1.1.1",
+  "windows": {
+    "main": {
+      "main": true,
+      "url": "app://editor/index.html",
+      "windowType": "dockable",
+      "x": 0,
+      "y": 38,
+      "width": 1728,
+      "height": 987,
+      "layout": {
+        "type": "dock-h",
+        "children": [
+          {
+            "width": 248.078125,
+            "height": 932,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "assets"
+            ]
+          },
+          {
+            "width": 369.6875,
+            "height": 932,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "inspector"
+            ]
+          },
+          {
+            "width": 482.78125,
+            "height": 932,
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "hierarchy"
+            ]
+          },
+          {
+            "width": 621.421875,
+            "height": 932,
+            "type": "dock-v",
+            "children": [
+              {
+                "width": 621.421875,
+                "height": 509,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "scene"
+                ]
+              },
+              {
+                "width": 621.421875,
+                "height": 421,
+                "type": "panel",
+                "active": 0,
+                "children": [
+                  "console",
+                  "timeline",
+                  "game-window"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "hierarchy",
+        "assets",
+        "console",
+        "timeline",
+        "game-window",
+        "inspector",
+        "scene"
+      ],
+      "webPreferences": {
+        "enableRemoteModule": true,
+        "enableBlinkFeatures": "ShadowDOMV0,CustomElementsV0,HTMLImports",
+        "nodeIntegration": true,
+        "contextIsolation": false,
+        "webSecurity": false
+      }
+    },
+    "window-1670338763344": {}
+  },
+  "panels": {
+    "sprite-editor": {
+      "x": 614,
+      "y": 229,
+      "width": 500,
+      "height": 528
+    },
+    "project-settings": {
+      "x": 584,
+      "y": 229,
+      "width": 584,
+      "height": 554
+    }
+  }
+}

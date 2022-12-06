@@ -1,0 +1,423 @@
+2022-12-06T13:52:30.815Z - success: protocol editor-framework registered
+2022-12-06T13:52:30.815Z - success: protocol app registered
+2022-12-06T13:52:30.815Z - success: protocol theme registered
+2022-12-06T13:52:30.816Z - success: protocol packages registered
+2022-12-06T13:52:30.831Z - normal: Load ~/.CocosCreator/settings.json
+2022-12-06T13:52:30.836Z - success: protocol uuid registerred
+2022-12-06T13:52:30.836Z - success: protocol db registerred
+2022-12-06T13:52:30.836Z - success: protocol thumbnail registerred
+2022-12-06T13:52:30.856Z - normal: Initializing Asset Database
+2022-12-06T13:52:30.857Z - normal: checking language setting...
+2022-12-06T13:52:30.857Z - normal: Language: en
+2022-12-06T13:52:30.858Z - success: protocol unpack registerred
+2022-12-06T13:52:30.858Z - success: protocol disable-commonjs registerred
+2022-12-06T13:52:31.207Z - success: preview server running at http://localhost:7457
+2022-12-06T13:52:34.211Z - normal: failed to connect login server due to request timeout
+2022-12-06T13:52:34.212Z - normal: Check project /Users/backup/Downloads/TrucXanh-master
+2022-12-06T13:52:34.215Z - normal: Initializing project /Users/backup/Downloads/TrucXanh-master
+2022-12-06T13:52:34.416Z - normal: Initializing Cocos2d
+2022-12-06T13:52:34.588Z - normal: Initializing engine extends
+2022-12-06T13:52:34.601Z - success: asset-db-debugger loaded
+2022-12-06T13:52:34.602Z - success: color-picker loaded
+2022-12-06T13:52:34.602Z - success: jsb-adapter loaded
+2022-12-06T13:52:34.605Z - success: package-manager loaded
+2022-12-06T13:52:34.606Z - success: runtime-dev-tools loaded
+2022-12-06T13:52:34.611Z - success: tester loaded
+2022-12-06T13:52:34.613Z - success: ui-kit-preview-extra loaded
+2022-12-06T13:52:34.614Z - success: ui-kit-preview loaded
+2022-12-06T13:52:34.616Z - success: ui-kit loaded
+2022-12-06T13:52:34.647Z - success: assets loaded
+2022-12-06T13:52:34.649Z - success: builder loaded
+2022-12-06T13:52:34.761Z - success: cocos-services loaded
+2022-12-06T13:52:34.763Z - success: console loaded
+2022-12-06T13:52:34.766Z - success: game-window loaded
+2022-12-06T13:52:34.769Z - success: hierarchy loaded
+2022-12-06T13:52:34.770Z - success: inspector loaded
+2022-12-06T13:52:34.771Z - success: keystore loaded
+2022-12-06T13:52:34.774Z - success: node-library loaded
+2022-12-06T13:52:34.775Z - success: package-asset loaded
+2022-12-06T13:52:34.776Z - success: preferences loaded
+2022-12-06T13:52:34.778Z - success: project-exporter loaded
+2022-12-06T13:52:34.780Z - success: project-importer loaded
+2022-12-06T13:52:34.781Z - success: project-settings loaded
+2022-12-06T13:52:34.783Z - success: scene loaded
+2022-12-06T13:52:34.784Z - success: simulator-debugger loaded
+2022-12-06T13:52:34.784Z - success: sprite-editor loaded
+2022-12-06T13:52:34.786Z - success: store loaded
+2022-12-06T13:52:34.788Z - success: timeline loaded
+2022-12-06T13:52:34.811Z - success: im-plugin loaded
+2022-12-06T13:52:35.190Z - normal: Loading packages
+2022-12-06T13:52:35.194Z - normal: Watching packages
+2022-12-06T13:52:35.404Z - normal: Run Application
+2022-12-06T13:52:38.440Z - info: Cocos Services load base data!
+2022-12-06T14:14:41.802Z - normal: Query Info ....
+2022-12-06T14:14:41.803Z - normal: Find usages ....
+2022-12-06T14:14:41.822Z - normal: Filtering Nodes ....
+2022-12-06T14:14:41.824Z - normal: Search End
+2022-12-06T14:16:39.581Z - info: Only the prefab node "SymbolPrefab" and its child nodes are saved.
+2022-12-06T14:16:47.613Z - info: Only the prefab node "SymbolPrefab" and its child nodes are saved.
+2022-12-06T14:16:48.004Z - info: Only the prefab node "SymbolPrefab" and its child nodes are saved.
+2022-12-06T14:18:52.214Z - warn: The SpriteFrame used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/Game/WinGame/Frame_BigWin_half"
+Missing uuid: "f1d92b61-8eb7-476a-9185-899085a7fce8"
+
+2022-12-06T14:19:18.228Z - warn: The SpriteFrame used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/Game/LoseGame/Frame_BigWin_half"
+Missing uuid: "f1d92b61-8eb7-476a-9185-899085a7fce8"
+
+2022-12-06T14:19:29.974Z - warn: The SpriteFrame used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/Game/LoseGame/Frame_BigWin_half"
+Missing uuid: "f1d92b61-8eb7-476a-9185-899085a7fce8"
+
+2022-12-06T14:19:49.362Z - warn: The SpriteFrame used by component "cc.Sprite" is missing. Detailed information:
+Node path: "Canvas/Game/LoseGame/Frame_BigWin_half"
+Missing uuid: "f1d92b61-8eb7-476a-9185-899085a7fce8"
+
+2022-12-06T14:34:39.169Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/trucxanh/data/Button.png.meta
+2022-12-06T14:59:38.293Z - warn: /Users/backup/Downloads/TrucXanh-master/build not exists!
+2022-12-06T15:00:47.370Z - warn: /Users/backup/Downloads/TrucXanh-master/realse not exists!
+2022-12-06T15:01:05.947Z - normal: Start building with options : {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TrucXanh",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "bf2b6094-2be0-46f0-b005-c15a59a45250",
+  "title": "TrucXanh",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a91e0bec-f314-45",
+  "zipCompressJs": true,
+  "platform": "web-mobile",
+  "actualPlatform": "web-mobile",
+  "template": "link",
+  "buildPath": "/Users/backup/Downloads/TrucXanh-master/release",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "dest": "/Users/backup/Downloads/TrucXanh-master/release/web-mobile",
+  "scenes": [
+    "bf2b6094-2be0-46f0-b005-c15a59a45250"
+  ],
+  "excludedModules": [],
+  "project": "/Users/backup/Downloads/TrucXanh-master",
+  "projectName": "TrucXanh",
+  "debugBuildWorker": false
+}
+2022-12-06T15:01:05.949Z - normal: Building /Users/backup/Downloads/TrucXanh-master
+2022-12-06T15:01:05.949Z - normal: Destination /Users/backup/Downloads/TrucXanh-master/release/web-mobile
+2022-12-06T15:01:06.031Z - normal: Delete /Users/backup/Downloads/TrucXanh-master/release/web-mobile/subpackages/**/*,/Users/backup/Downloads/TrucXanh-master/release/web-mobile/**/*
+2022-12-06T15:01:23.461Z - normal: Start building assets
+2022-12-06T15:01:23.461Z - normal: Start spawn build-worker
+2022-12-06T15:01:23.630Z - normal: Finish spawn build-worker
+2022-12-06T15:01:23.630Z - normal: Start init build-worker
+2022-12-06T15:01:24.304Z - normal: Finish init build-worker
+2022-12-06T15:01:24.304Z - normal: Start build-assets in worker
+2022-12-06T15:01:24.433Z - normal: Finish build-assets in worker
+2022-12-06T15:01:24.435Z - normal: Finish building assets
+2022-12-06T15:01:24.443Z - normal: Start building plugin scripts
+2022-12-06T15:01:24.450Z - normal: Generating main.js from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-06T15:01:24.454Z - normal: Generating html from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-06T15:01:24.458Z - normal: Built to "/Users/backup/Downloads/TrucXanh-master/release/web-mobile" successfully
+2022-12-06T15:01:35.355Z - normal: Start building with options : {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TrucXanh",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "bf2b6094-2be0-46f0-b005-c15a59a45250",
+  "title": "TrucXanh",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a91e0bec-f314-45",
+  "zipCompressJs": true,
+  "platform": "web-mobile",
+  "actualPlatform": "web-mobile",
+  "template": "link",
+  "buildPath": "/Users/backup/Downloads/TrucXanh-master/release",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "dest": "/Users/backup/Downloads/TrucXanh-master/release/web-mobile",
+  "scenes": [
+    "bf2b6094-2be0-46f0-b005-c15a59a45250"
+  ],
+  "excludedModules": [],
+  "project": "/Users/backup/Downloads/TrucXanh-master",
+  "projectName": "TrucXanh",
+  "debugBuildWorker": false
+}
+2022-12-06T15:01:35.355Z - normal: Building /Users/backup/Downloads/TrucXanh-master
+2022-12-06T15:01:35.356Z - normal: Destination /Users/backup/Downloads/TrucXanh-master/release/web-mobile
+2022-12-06T15:01:35.356Z - normal: Delete /Users/backup/Downloads/TrucXanh-master/release/web-mobile/subpackages/**/*,/Users/backup/Downloads/TrucXanh-master/release/web-mobile/**/*
+2022-12-06T15:01:35.960Z - normal: Start building assets
+2022-12-06T15:01:35.960Z - normal: Start spawn build-worker
+2022-12-06T15:01:36.145Z - normal: Finish spawn build-worker
+2022-12-06T15:01:36.145Z - normal: Start init build-worker
+2022-12-06T15:01:36.889Z - normal: Finish init build-worker
+2022-12-06T15:01:36.889Z - normal: Start build-assets in worker
+2022-12-06T15:01:37.015Z - normal: Finish build-assets in worker
+2022-12-06T15:01:37.017Z - normal: Finish building assets
+2022-12-06T15:01:37.026Z - normal: Start building plugin scripts
+2022-12-06T15:01:37.032Z - normal: Generating main.js from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-06T15:01:37.034Z - normal: Generating html from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-06T15:01:37.039Z - normal: Built to "/Users/backup/Downloads/TrucXanh-master/release/web-mobile" successfully
+2022-12-06T15:02:07.024Z - normal: Start building with options : {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TrucXanh",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "bf2b6094-2be0-46f0-b005-c15a59a45250",
+  "title": "TrucXanh",
+  "webOrientation": "landscape",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a91e0bec-f314-45",
+  "zipCompressJs": true,
+  "platform": "web-mobile",
+  "actualPlatform": "web-mobile",
+  "template": "link",
+  "buildPath": "/Users/backup/Downloads/TrucXanh-master/release",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "dest": "/Users/backup/Downloads/TrucXanh-master/release/web-mobile",
+  "scenes": [
+    "bf2b6094-2be0-46f0-b005-c15a59a45250"
+  ],
+  "excludedModules": [],
+  "project": "/Users/backup/Downloads/TrucXanh-master",
+  "projectName": "TrucXanh",
+  "debugBuildWorker": false
+}
+2022-12-06T15:02:07.024Z - normal: Building /Users/backup/Downloads/TrucXanh-master
+2022-12-06T15:02:07.024Z - normal: Destination /Users/backup/Downloads/TrucXanh-master/release/web-mobile
+2022-12-06T15:02:07.025Z - normal: Delete /Users/backup/Downloads/TrucXanh-master/release/web-mobile/subpackages/**/*,/Users/backup/Downloads/TrucXanh-master/release/web-mobile/**/*
+2022-12-06T15:02:07.599Z - normal: Start building assets
+2022-12-06T15:02:07.599Z - normal: Start spawn build-worker
+2022-12-06T15:02:07.770Z - normal: Finish spawn build-worker
+2022-12-06T15:02:07.771Z - normal: Start init build-worker
+2022-12-06T15:02:08.440Z - normal: Finish init build-worker
+2022-12-06T15:02:08.440Z - normal: Start build-assets in worker
+2022-12-06T15:02:08.550Z - normal: Finish build-assets in worker
+2022-12-06T15:02:08.551Z - normal: Finish building assets
+2022-12-06T15:02:08.559Z - normal: Start building plugin scripts
+2022-12-06T15:02:08.563Z - normal: Generating main.js from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-06T15:02:08.564Z - normal: Generating html from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-06T15:02:08.569Z - normal: Built to "/Users/backup/Downloads/TrucXanh-master/release/web-mobile" successfully
+2022-12-06T15:09:41.924Z - normal: Start building with options : {
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TrucXanh",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "bf2b6094-2be0-46f0-b005-c15a59a45250",
+  "title": "TrucXanh",
+  "webOrientation": "portrait",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait",
+    "separate_engine": false,
+    "subContext": ""
+  },
+  "xxteaKey": "a91e0bec-f314-45",
+  "zipCompressJs": true,
+  "platform": "web-mobile",
+  "actualPlatform": "web-mobile",
+  "template": "link",
+  "buildPath": "/Users/backup/Downloads/TrucXanh-master/release",
+  "debug": false,
+  "sourceMaps": false,
+  "embedWebDebugger": false,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "vsVersion": "auto",
+  "dest": "/Users/backup/Downloads/TrucXanh-master/release/web-mobile",
+  "scenes": [
+    "bf2b6094-2be0-46f0-b005-c15a59a45250"
+  ],
+  "excludedModules": [],
+  "project": "/Users/backup/Downloads/TrucXanh-master",
+  "projectName": "TrucXanh",
+  "debugBuildWorker": false
+}
+2022-12-06T15:09:41.924Z - normal: Building /Users/backup/Downloads/TrucXanh-master
+2022-12-06T15:09:41.925Z - normal: Destination /Users/backup/Downloads/TrucXanh-master/release/web-mobile
+2022-12-06T15:09:41.926Z - normal: Delete /Users/backup/Downloads/TrucXanh-master/release/web-mobile/subpackages/**/*,/Users/backup/Downloads/TrucXanh-master/release/web-mobile/**/*
+2022-12-06T15:09:42.609Z - normal: Start building assets
+2022-12-06T15:09:42.609Z - normal: Start spawn build-worker
+2022-12-06T15:09:42.779Z - normal: Finish spawn build-worker
+2022-12-06T15:09:42.779Z - normal: Start init build-worker
+2022-12-06T15:09:43.618Z - normal: Finish init build-worker
+2022-12-06T15:09:43.618Z - normal: Start build-assets in worker
+2022-12-06T15:09:43.736Z - normal: Finish build-assets in worker
+2022-12-06T15:09:43.737Z - normal: Finish building assets
+2022-12-06T15:09:43.745Z - normal: Start building plugin scripts
+2022-12-06T15:09:43.749Z - normal: Generating main.js from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-06T15:09:43.751Z - normal: Generating html from /Applications/Cocos213M1.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-06T15:09:43.755Z - normal: Built to "/Users/backup/Downloads/TrucXanh-master/release/web-mobile" successfully
+2022-12-06T15:09:54.456Z - info: shutdown preview server
